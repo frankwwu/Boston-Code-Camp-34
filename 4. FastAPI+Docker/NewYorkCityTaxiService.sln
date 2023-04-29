@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NewYorkCityTaxiService", "NewYorkCityTaxiService\NewYorkCityTaxiService.pyproj", "{811F6B06-C91C-410C-B824-EC75F53CCAB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{811F6B06-C91C-410C-B824-EC75F53CCAB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811F6B06-C91C-410C-B824-EC75F53CCAB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F1936B6-4CAE-4CBE-A911-7DB9C3B8734E}
+	EndGlobalSection
+EndGlobal
